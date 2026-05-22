@@ -1,7 +1,8 @@
-REGULAMIN APLIKACJI MOBILNEJ ARNGCOR
-Wersja dokumentu: 2026-05-19
+# REGULAMIN APLIKACJI MOBILNEJ ARNGCOR
 
-1. Postanowienia ogólne
+*Wersja dokumentu: 2026-05-19*
+
+## 1. Postanowienia ogólne
 
 1.1. Niniejszy Regulamin określa zasady korzystania z aplikacji mobilnej ARNGCOR (iOS / Android) oraz powiązanych usług cyfrowych (łącznie: "Usługa" lub "Aplikacja").
 
@@ -11,7 +12,7 @@ Wersja dokumentu: 2026-05-19
 
 1.4. Regulamin jest udostępniany w języku polskim. Użytkownik powinien zapoznać się z nim przed rejestracją i akceptuje go poprzez zaznaczenie odpowiedniego pola przy zakładaniu konta.
 
-2. Definicje
+## 2. Definicje
 
 - Użytkownik - osoba fizyczna korzystająca z Aplikacji.
 - Konto - profil powiązany z identyfikatorem uwierzytelnienia (e-mail, Apple ID lub Google).
@@ -19,13 +20,13 @@ Wersja dokumentu: 2026-05-19
 - Plan Premium - płatna subskrypcja auto-odnawialna lub inny płatny plan udostępniony w Aplikacji, obsługiwany przez Apple App Store (na iOS).
 - Okres próbny - ograniczona liczba bezpłatnych, ukończonych sesji codziennej praktyki przed wymogiem Premium (obecnie 4 sesje - zgodnie z logiką Aplikacji).
 
-3. Kto może korzystać z Aplikacji
+## 3. Kto może korzystać z Aplikacji
 
 3.1. Usługa skierowana jest do osób pełnoletnich lub osób, które ukończyły 16 lat i posiadają zdolność do czynności prawnych, o ile przepisy prawa w kraju Użytkownika na to pozwalają. Osoby młodsze mogą korzystać wyłącznie za zgodą i pod nadzorem przedstawiciela ustawowego.
 
 3.2. Użytkownik oświadcza, że podane dane (w tym profil, wiek, poziom sprawności) są prawdziwe w zakresie, w jakim je podaje, oraz że jego stan zdrowia pozwala na umiarkowaną aktywność fizyczną, o ile zdecyduje się ćwiczyć.
 
-4. Charakter Usługi - ważne ostrzeżenia zdrowotne
+## 4. Charakter Usługi - ważne ostrzeżenia zdrowotne
 
 4.1. ARNGCOR to aplikacja do codziennej praktyki ruchowej, rozciągania i mobilności inspirowana jogą oraz podejściem fizjoterapeutycznym. Nie jest produktem leczniczym, wyrobem medycznym, telemedycyną ani poradą medyczną.
 
@@ -37,7 +38,7 @@ Wersja dokumentu: 2026-05-19
 
 4.5. Usługodawca nie monitoruje w czasie rzeczywistym stanu zdrowia Użytkownika i nie ponosi odpowiedzialności za decyzje Użytkownika dotyczące intensywności ćwiczeń, pomijania ostrzeżeń lub ćwiczenia wbrew zaleceniom lekarza.
 
-5. Konto i bezpieczeństwo
+## 5. Konto i bezpieczeństwo
 
 5.1. Część funkcji wymaga Konta (e-mail i hasło lub logowanie Apple / Google przez dostawcę uwierzytelniania).
 
@@ -47,11 +48,12 @@ Wersja dokumentu: 2026-05-19
 
 5.4. Usługodawca może zawiesić lub usunąć Konto w przypadku naruszenia Regulaminu, nadużyć, oszustwa lub zagrożenia bezpieczeństwa - z zachowaniem praw konsumenta wynikających z bezwzględnie obowiązujących przepisów.
 
-6. Zasady korzystania z Aplikacji
+## 6. Zasady korzystania z Aplikacji
 
 6.1. Użytkownik korzysta zgodnie z Regulaminem, prawem, dobrymi obyczajami i instrukcjami w Aplikacji.
 
 6.2. Zabronione jest w szczególności:
+
 - korzystanie w sposób mogący zagrozić zdrowiu lub życiu (swoim lub innych), w tym ćwiczenia w stanie nietrzeźwości lub pod wpływem substancji;
 - kopiowanie, rozpowszechnianie, odsprzedaż lub publiczne udostępnianie Treści cyfrowej bez zgody Usługodawcy;
 - inżynieria wsteczna, automatyczne scrapowanie, obciążanie infrastruktury, wyłączanie zabezpieczeń;
@@ -62,7 +64,7 @@ Wersja dokumentu: 2026-05-19
 
 6.3. Zgłoszenia błędów (formularz w Aplikacji) powinny być zgodne z prawdą. Udzielasz nam niewyłącznej, nieodpłatnej licencji na wykorzystanie treści zgłoszenia w celu poprawy Usługi.
 
-7. Treść cyfrowa i prawa autorskie
+## 7. Treść cyfrowa i prawa autorskie
 
 7.1. Wszystkie elementy Aplikacji (m.in. grafiki, wideo, audio, teksty, układ ćwiczeń, znaki ARNGCOR) chronione są prawem autorskim i należą do Usługodawcy lub podmiotów uprawnionych.
 
@@ -70,7 +72,7 @@ Wersja dokumentu: 2026-05-19
 
 7.3. Usługodawca może aktualizować katalog ćwiczeń, algorytmy dopasowania sesji i interfejs bez wcześniejszego powiadomienia, o ile nie pogarsza to istotnie płatnych funkcji w sposób sprzeczny z prawem.
 
-8. Plany, płatności i subskrypcje
+## 8. Plany, płatności i subskrypcje
 
 8.1. Okres próbny: określona liczba ukończonych sesji codziennej praktyki jest bezpłatna; po jej wykorzystaniu dalszy dostęp do wybranych funkcji (m.in. rozszerzona codzienna praktyka) wymaga aktywnego Planu Premium, o ile Aplikacja tak to prezentuje.
 
@@ -82,13 +84,14 @@ Wersja dokumentu: 2026-05-19
 
 8.5. Użytkownik będący konsumentem w rozumieniu prawa polskiego zachowuje uprawnienia wynikające z bezwzględnie obowiązujących przepisów (w tym o zgodności usługi cyfrowej z umową). Postępowanie reklamacyjne co do płatności Apple prowadzi się zgodnie z procedurą Apple; sprawy merytoryczne dotyczące działania Aplikacji - na konrad.sowinski01@gmail.com.
 
-9. Odpowiedzialność Usługodawcy i ograniczenia
+## 9. Odpowiedzialność Usługodawcy i ograniczenia
 
 9.1. Usługodawca dokłada starań, aby Aplikacja działała zgodnie z przeznaczeniem, jednak nie gwarantuje nieprzerwanego działania, braku błędów ani osiągnięcia określonych efektów zdrowotnych, sylwetki czy sprawności.
 
 9.2. Usługa dostarczana jest w stanie "tak jak jest" (as is), w granicach dopuszczalnych przez prawo - z poszanowaniem praw konsumenta do zgodności usługi cyfrowej z umową.
 
 9.3. Wyłączenie i ograniczenie odpowiedzialności (w najszerszym zakresie dopuszczalnym przez prawo polskie i unijne, bez uszczerbku dla praw konsumenta z tytułu szkody na osobie i innych bezwzględnych przepisów):
+
 - Usługodawca nie odpowiada za szkody wynikłe z niewłaściwego korzystania z Aplikacji, zlekceważenia ostrzeżeń zdrowotnych, ćwiczeń wbrew zaleceniom medycznym, podania nieprawdziwych danych profilowych lub działań Użytkownika sprzecznych z Regulaminem;
 - nie odpowiada za przerwy wynikające z siły wyższej, awarii sieci, urządzenia Użytkownika, działań Apple, Google, Supabase lub innych dostawców infrastruktury;
 - nie odpowiada za utracone korzyści, szkody pośrednie, moralne w zakresie wykraczającym poza obowiązkowe przepisy;
@@ -97,7 +100,7 @@ Wersja dokumentu: 2026-05-19
 
 9.4. Użytkownik zobowiązuje się do zabezpieczenia Usługodawcy na zasadach odszkodowania (hold harmless) za roszczenia osób trzecich wynikłe z naruszenia Regulaminu przez Użytkownika lub z treści przez niego przekazanych - w granicach prawa.
 
-10. Reklamacje i kontakt
+## 10. Reklamacje i kontakt
 
 10.1. Uwagi, reklamacje i zgłoszenia dotyczące Aplikacji: konrad.sowinski01@gmail.com. Podaj: opis problemu, wersję Aplikacji, model urządzenia, zrzut ekranu jeśli możliwy.
 
@@ -105,13 +108,13 @@ Wersja dokumentu: 2026-05-19
 
 10.3. Konsument może skorzystać z pozasądowego rozwiązywania sporów (m.in. platforma ODR UE: https://ec.europa.eu/consumers/odr) oraz właściwych organów ochrony konsumentów.
 
-11. Odstąpienie od umowy i usunięcie konta
+## 11. Odstąpienie od umowy i usunięcie konta
 
 11.1. W zakresie usług cyfrowych świadczonych natychmiast po wyraźnej zgodzie konsumenta (np. rozpoczęcie korzystania z Premium po zakupie) - przepisy o odstąpieniu od umowy zawartej na odległość mogą być ograniczone zgodnie z art. 38 pkt 13 ustawy o prawach konsumenta. Szczegóły zwrotów za subskrypcję Apple - wg zasad Apple.
 
 11.2. Użytkownik może usunąć Konto w ustawieniach Aplikacji (Usuwanie konta) lub zgłosić żądanie usunięcia na konrad.sowinski01@gmail.com. Usunięcie danych osobowych - zgodnie z Polityką prywatności.
 
-12. Zmiany Regulaminu
+## 12. Zmiany Regulaminu
 
 12.1. Usługodawca może zmienić Regulamin z ważnych przyczyn (zmiana prawa, funkcji, płatności). O istotnych zmianach poinformuje w Aplikacji lub e-mailem przed wejściem w życie, z możliwością zapoznania się z nową treścią.
 
@@ -119,13 +122,13 @@ Wersja dokumentu: 2026-05-19
 
 12.3. Przy rejestracji zapisywana jest wersja Regulaminu zaakceptowanego przez Użytkownika.
 
-13. Prawo właściwe i spory
+## 13. Prawo właściwe i spory
 
 13.1. Regulamin podlega prawu polskiemu, z poszanowaniem imperatywnych norm prawa UE stosowanych do konsumentów z innych państw członkowskich.
 
 13.2. Spory będą rozstrzygane przez sąd właściwy według przepisów. Wobec konsumenta - zgodnie z jego wyborem: sąd miejsca zamieszkania konsumenta lub Usługodawcy, zgodnie z Kodeksem postępowania cywilnego.
 
-14. Postanowienia końcowe
+## 14. Postanowienia końcowe
 
 14.1. Jeżeli którekolwiek postanowienie jest nieważne, pozostałe zachowują moc.
 
