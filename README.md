@@ -1,25 +1,33 @@
-# ARNGCOR — dokumenty prawne (strona www)
+# ARNGCOR — dokumenty prawne (publiczne)
 
-Publiczne kopie polityki prywatności i regulaminu (ten sam tekst co w aplikacji).
+Pliki `.txt` — ten sam tekst co w aplikacji (`assets/legal/`).
 
-## Pliki
+## Linki do wklejenia (Google, App Store)
 
-- `index.html` — strona główna (Google OAuth, App Store)
-- `privacy.html` — polityka prywatności
-- `terms.html` — regulamin
+Po wypchnięciu **publicznego** repo na GitHubie zamień `TWOJ_USER` i nazwę repo:
 
-## GitHub Pages
+- **Strona główna:**  
+  `https://raw.githubusercontent.com/TWOJ_USER/arngcor-legal/main/index.txt`
 
-1. Wypchnij repo na GitHub (publiczne, **tylko** te pliki).
-2. **Settings → Pages → Source:** branch `main`, folder `/ (root)`.
-3. URL będzie np. `https://TWOJ_USER.github.io/ARNGCOR-legal/privacy.html`
+- **Polityka prywatności:**  
+  `https://raw.githubusercontent.com/TWOJ_USER/arngcor-legal/main/privacy.txt`
 
-## Google Cloud (OAuth)
+- **Regulamin:**  
+  `https://raw.githubusercontent.com/TWOJ_USER/arngcor-legal/main/terms.txt`
 
-- Strona główna: `.../index.html`
-- Polityka prywatności: `.../privacy.html`
-- Warunki korzystania: `.../terms.html`
+Te adresy otwierają się w przeglądarce jako zwykły tekst (bez HTML).
 
-## Aktualizacja treści
+Alternatywa — podgląd na GitHubie (z menu repo):  
+`https://github.com/TWOJ_USER/arngcor-legal/blob/main/privacy.txt`
 
-Skopiuj zmiany z `arngcor/assets/legal/*.txt` i wygeneruj HTML ponownie (lub edytuj ręcznie).
+## GitHub Pages — nie jest wymagane
+
+Wystarczy publiczne repo + linki `raw.githubusercontent.com` powyżej.
+
+## W aplikacji (opcjonalnie)
+
+W `dart_defines.supabase.json`:
+
+```json
+"LEGAL_PRIVACY_URL": "https://raw.githubusercontent.com/TWOJ_USER/arngcor-legal/main/privacy.txt"
+```
